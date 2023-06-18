@@ -24,3 +24,9 @@ Patches:
 1. Scrollback;mouse,mouse-altscreen
 
 2. Dracula Colour scheme
+
+
+## Slock
+Input color: purple
+Failed color: orange
+Idle color: black
